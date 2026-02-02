@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hi there!
+
+I’m [**Abir**](https://abir.totalh.net), a programmer based in Bangladesh. I like building things.
+
+**These days I’m focused on:**
+- Rust, Bash, Python
+- Automate some boring task
+- Small, thoughtful projects with polish
+
+---
+
+**Fun Facts:**
+
+* I don’t like fancy social media
+* Arch Linux is my favorite OS
+* **Hobbies:** bracking & fixing
