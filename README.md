@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ### Hi there!
 
-I’m [**Abir**](https://abir.totalh.net), a programmer based in Bangladesh. I like building things.
+I’m [**Abir**](https://logicxyz.github.io/), a programmer based in Bangladesh. I like building things.
 
 **These days I’m focused on:**
 - Rust, Bash, Python
