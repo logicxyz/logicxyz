@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 I’m [**Abir**](https://logicxyz.github.io/), a programmer based in Bangladesh. I like building things.
 
 **These days I’m focused on:**
-- Rust, Bash, Python
+- Rust, Bash, Python, Linux
 - Automate some boring task
 - Small, thoughtful projects with polish
 
@@ -27,4 +27,5 @@ I’m [**Abir**](https://logicxyz.github.io/), a programmer based in Bangladesh.
 
 * I don’t like fancy social media
 * Arch Linux is my favorite OS
+* Over‐motivational language
 * **Hobbies:** bracking & fixing
